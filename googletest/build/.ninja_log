@@ -1,0 +1,5 @@
+# ninja log v6
+72	4120	7544327741462653	googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	7092f8b3b747d119
+20	17852	7544327740932576	googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	e1f90ad7e464ebc7
+17860	18425	7544327919332616	lib/libgtest.a	152a597d171f9ad6
+18426	18797	7544327924992641	lib/libgtest_main.a	db7cb8fd8e3685e4
